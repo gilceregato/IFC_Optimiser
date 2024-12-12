@@ -1,8 +1,5 @@
 ifcopenshell
-ifctester
 ifcpatch
 lark
-numpy
-pystache
 shutil
 streamlit
