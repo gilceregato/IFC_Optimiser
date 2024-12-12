@@ -1,4 +1,3 @@
 ifcopenshell
 ifcpatch
-shutil
 streamlit
