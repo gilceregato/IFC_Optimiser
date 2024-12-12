@@ -1,0 +1,10 @@
+ifcopenshell=0.8.0
+ifctester=0.8.0
+ifcpatch
+lark
+numpy
+pandas
+pystache
+shapely
+shutil
+streamlit
