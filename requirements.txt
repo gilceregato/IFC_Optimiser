@@ -3,8 +3,6 @@ ifctester
 ifcpatch
 lark
 numpy
-pandas
 pystache
-shapely
 shutil
 streamlit
