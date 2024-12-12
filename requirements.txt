@@ -1,5 +1,5 @@
-ifcopenshell==0.8.0
-ifcteste==0.8.0
+ifcopenshell
+ifctester
 ifcpatch
 lark
 numpy
